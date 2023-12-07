@@ -1,0 +1,13 @@
+/********* Simple Blue **********/
+
+.form-submit-button-simple_blue {
+    color: #ffffff;
+    text-shadow:-1px -1px 0px #003ea1;
+    border:1px solid #0d4aab;
+	box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	background: linear-gradient(to top, #3d94f6 0%, #1e62d0 100%);
+}
+
+.form-submit-button-simple_blue:hover, .form-submit-button-simple_blue:active {
+	background: linear-gradient(to top, #54a2f9 0%, #2e7be3 100%);
+}
